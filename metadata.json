@@ -1,0 +1,6 @@
+{
+  "name": "Estoque Oficial Guarabira",
+  "description": "Sistema de controle e conferência de estoque diário e mensal com dashboards, resumo fiscal/físico, ajustes e análise de perdas e sobras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
